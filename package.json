@@ -1,9 +1,9 @@
 {
-  "name": "@henrotaym/vue-3-typescript-package-boilerplate",
+  "name": "@deegital/vue-3-trustup-io-loader",
   "description": "Boilerplate to start a vue 3 package easily.",
   "private": false,
   "license": "MIT",
-  "version": "0.0.13",
+  "version": "0.0.1",
   "type": "module",
   "files": [
     "dist"
