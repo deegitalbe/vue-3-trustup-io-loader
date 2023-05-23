@@ -1,27 +1,30 @@
-# Typescript vue 3 package boilerplate 🔥
+# vue-3-trustup-io-loader
 
-## Initialization
+Customizable loader
+
+## Installation
+
 ```shell
-./cli bootstrap
+yarn add @deegital/vue-3-trustup-io-loader
 ```
 
 ## Usage
-### Start dev server
-```shell
-./cli start
+
+```html
+<AppLoader
+  :is-full-page="true"
+  first-circle-color="#5980e3"
+  second-circle-color="#a6baed"
+  third-circle-color="#1B4CCA"
+/>
 ```
 
-### Stop dev server
-```shell
-./cli stop
-```
+## Development
 
-### Yarn
 ```shell
-./cli yarn install
-```
-
-### Publish versions
-```shell
-./cli version patch
+./cli bootstrap #bootstrap project
+./cli yarn install #install dependencies
+./cli start #start project
+./cli stop #stop project
+./cli restart  #restart project
 ```
