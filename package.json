@@ -1,7 +1,7 @@
 {
   "name": "@deegital/vue-3-trustup-io-loader",
   "description": "Customizable loader",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "type": "module",
   "files": [
     "dist"
